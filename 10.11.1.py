@@ -1,6 +1,5 @@
 # Programa buenaso trabaja con listas, tuplas, diccionarios y ordenamientos
-# Este trabaja con horas pero es basicamente los mismo que el 10.11.1-JD.DV
-
+# Este trabaja con horas pero es basicamente los mismo que el 10.11.1-JD
 import string 
 f_hand = open ('mbox-short.txt')
 lista= list()
